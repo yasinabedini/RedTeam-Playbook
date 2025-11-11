@@ -18,6 +18,12 @@ Leverage valid user, admin, or service accounts—obtained from open‑sou
 | | [**Breach Directory**](https://breachdirectory.org/) | Plaintext / partial hash lookup |
 | | [**SOCRadar**](https://socradar.io/thank-you/) | DarkWeb monitoring + credential leak alerts for organizations |
 
+
+### Account Discovery
+
+Download, Run bellow bat file and save result
+https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1074.001/src/Discovery.bat
+
 ---
 
 ## 🧠 Common Evasion Techniques
