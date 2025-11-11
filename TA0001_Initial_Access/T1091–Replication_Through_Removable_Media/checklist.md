@@ -8,6 +8,8 @@
 | `Disable‑MOTW.ps1` | Bypass mark‑of‑web |
 | `SharpDriveSpread` | internal lab benchmark |
 
+POC : https://github.com/thehackercat/USBthief
+Scan Removable Drivers And copy data from usb to system
 ---
 
 ## ✅ Checklist
