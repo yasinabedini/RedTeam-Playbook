@@ -20,6 +20,12 @@
 - New USB Vendor ID ≠ approved list.  
 - Endpoint DLP alerts on drive insert.
 
+---
+
+## 🧾 References
+- MITRE ATT&CK: [T1190  –Exploit Public‑Facing Application](https://attack.mitre.org/techniques/T1190/)  
+
+---
 
 Author : yasinabedini
 GitHub : https://github.com/yasinabedini
