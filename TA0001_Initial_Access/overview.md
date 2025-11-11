@@ -31,7 +31,7 @@
 ---
 
 **Tags:** `#TA0001` `#MITREv15` `#InitialAccess`  
-**Accent:** Neon #39FF14 on Dark Gray
+
 
 
 Author : yasinabedini
