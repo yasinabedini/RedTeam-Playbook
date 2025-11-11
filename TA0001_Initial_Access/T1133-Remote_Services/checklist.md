@@ -22,7 +22,16 @@
 - Windows EVT 4625 (RDP failed login), 4624 (success type 10).  
 - GeoIP anomaly (ASNs from non‑business countries).  
 - VPN portal multiple auth attempts.  
-- SIGMA: `rdp_bruteforce.yml`, `vpn_anomaly.yml`.
+- SIGMA: `win_security_successful_external_remote_rdp_login.yml`.
+
+
+---
+
+## 🧾 References
+- MITRE ATT&CK: [T1133 – External Remote Services](https://attack.mitre.org/techniques/T1133/)  
+
+
+---
 
 
 Author : yasinabedini
