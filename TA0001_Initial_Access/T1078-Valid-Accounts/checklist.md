@@ -17,20 +17,6 @@ Leverage valid user, admin, or service accounts—obtained from open‑sou
 | | [**Have I Been Pwned**](https://haveibeenpwned.com) | Public breach notification and verified exposure queries |
 | | [**Breach Directory**](https://breachdirectory.org/) | Plaintext / partial hash lookup |
 | | [**SOCRadar**](https://socradar.io/thank-you/) | DarkWeb monitoring + credential leak alerts for organizations |
-| **Privileged Access Tools** | **Rubeus**, **Mimikatz**, **Impacket** | Token theft / Kerberos abuse after account validation |
-| **Automation** | **CME (CrackMapExec)**, **Kerbrute** | Bulk credential validation and domain user brute |
-
----
-
-## ✅ Operator Checklist
-
-| Step | Task | Example | Done |
-|------|------|----------|------|
-| 1 | Enumerate org usernames from LinkedIn / AD dump | `firstname.lastname@corp.local` | ☐ |
-| 2 | Query breach lookup APIs (LeakCheck / DeHashed) | see if corp email appears in data leak | ☐ |
-| 3 | Validate credentials against VPN / OWA / SMB | `crackmapexec smb <target> -u users.txt -p pass.txt` | ☐ |
-| 4 | Escalate privilege post‑auth | Kerberos delegation / DCSync / RDP | ☐ |
-| 5 | Establish C2 or persistence via scheduled task as valid user | `taskschd.msc > Create Task (run as domain user)` | ☐ |
 
 ---
 
