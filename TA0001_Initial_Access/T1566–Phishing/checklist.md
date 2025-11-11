@@ -50,7 +50,7 @@ Deliver a weaponized file or URL that, upon user interaction, results in code ex
 ## 🧾 References
 - MITRE T1566 [v15](https://attack.mitre.org/techniques/T1566/)
 - SpecterOps – Modern Phishing Chains
-
+- Binary Offensive - Modern Initial Access
 
 Author : yasinabedini
 GitHub : https://github.com/yasinabedini

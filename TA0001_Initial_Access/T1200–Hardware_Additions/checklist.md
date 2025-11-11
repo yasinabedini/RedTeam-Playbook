@@ -23,7 +23,7 @@
 ---
 
 ## 🧾 References
-- MITRE ATT&CK: [T1190  –Exploit Public‑Facing Application](https://attack.mitre.org/techniques/T1190/)  
+- MITRE ATT&CK: [T1200 - Hardware Additions](https://attack.mitre.org/techniques/T1200/)  
 
 ---
 
