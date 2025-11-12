@@ -30,6 +30,7 @@ Execute remote PowerShell via WinRM for lateral movement or initial payload exec
 | Windows Security | 4624‑Type 3 + Event 10164 | WinRM network logon |
 | Sigma | `winrm_execution_remote.yml`
 
+refrences : 
 
 Author : yasinabedini
 GitHub : https://github.com/yasinabedini
